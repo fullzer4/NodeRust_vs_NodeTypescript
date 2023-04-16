@@ -1,2 +1,2 @@
-# Node with Rust functions vs Node with Typescript functions
+# Node with Rust functions vs Typescript functions
 
