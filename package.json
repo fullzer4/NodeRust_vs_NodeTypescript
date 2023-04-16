@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start" : "tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
