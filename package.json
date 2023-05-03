@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start" : "tsc && node dist/index.js"
+    "start": "tsc && node dist/index.js"
   },
   "dependencies": {
     "typescript": "^5.0.4"
