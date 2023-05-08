@@ -1,4 +1,4 @@
-# Node with Rust functions vs Typescript functions
+# Gif maker for readme profiles
 
 <div>
   <p>This project aims to compare the speed of using Rust in conjunction with Node.js and Node.js with TypeScript, and determine whether it's worth using Rust for certain tasks. The primary objective of this repository is to compare the performance of these technologies by receiving arrays of strings and returning an object for each element in the array with the letters separated.</h3>
